@@ -4,8 +4,8 @@
 
 Built as a BSCS capstone / scholarship portfolio project. No build step — plain HTML5, Tailwind CSS, and vanilla ES6+ JavaScript, backed by Firebase for auth and real-time data, and Leaflet/OpenStreetMap for zero-cost geographic tracking.
 
-#Website
-resqshare.vercel.app
+## Website
+**resqshare.vercel.app**
 
 ---
 
